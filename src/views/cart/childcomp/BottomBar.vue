@@ -61,10 +61,13 @@ export default {
   height:40px;
   background-color:#eee;
   line-height: 40px;
-  position:relative;
+  position:absolute;
   display:flex;
   font-size: 14px;
-  
+
+  bottom:49px;
+  left:0;
+  right:0;
  
 }
 .check-content {
@@ -88,8 +91,8 @@ export default {
 }
 .calculate {
   /* margin-left: 62px;
-  margin-right: -8px; */
+  margin-right: -8px;  */
   background-color: red;
   width:80px;
 }
-</style>
+</style> 

@@ -7,7 +7,7 @@
         <div slot="icon-text">首页</div>
       </tab-bar-item>
 
-      <tab-bar-item path="/category ">
+      <tab-bar-item path="/category">
         <img src="~assets/img/tabbar/category.svg" alt="" slot="icon">
         <img src="~assets/img/tabbar/category_active.svg" alt="" slot="icon-active">
         <div slot="icon-text">分类</div>
